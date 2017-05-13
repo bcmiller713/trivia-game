@@ -1,0 +1,59 @@
+body {
+	color: #fff;
+}
+
+video {
+	display: inline-block;
+}
+
+.container {
+	background-color: #E31B2E;
+	padding-bottom: 500px;
+	font-size: 20px;
+}
+
+.logo {
+	width: 800px;
+	margin-left: 150px;
+}
+
+.title {
+	text-align: center;
+	font-size: 36px;
+	padding: 10px;
+}
+
+.time {
+	text-align: center;
+	padding: 10px;
+}
+
+.question {
+	padding: 10px;
+}
+
+.all-answers {
+	display: none;
+}
+
+.answers {
+	padding: 10px;
+}
+
+.gif {
+	display: none;
+}
+
+.button {
+	padding: 20px;
+	margin: 20px 0px 20px 535px;
+	background-color: #A80B0B;
+	color: #fff;
+	font-size: 25px;
+	font-weight: bold;
+	border: solid #fff 1px;
+}
+
+.restart {
+	display: none;
+}
